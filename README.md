@@ -1,3 +1,3 @@
-# project to learn javascript
+# JavaScript drumkit
 
-*tutorial by Wes Bos www.WesBos.com
+* tutorial by Wes Bos www.wesbos.com
